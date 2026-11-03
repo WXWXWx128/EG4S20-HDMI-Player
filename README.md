@@ -1,0 +1,2 @@
+# EG4S20-HDMI-Player
+基于安路EG4S20 FPGA的HDMI多媒体播放系统
